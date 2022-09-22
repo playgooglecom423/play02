@@ -1,7 +1,7 @@
 {
     "name": "eDarling",
     "short_name": "eDarling",
-    "start_url": "/play01/",
+    "start_url": "/play02/index02",
     "display": "standalone",
     "background_color": "#2A3443",
     "description": "eDarling - Wejdź w bliski związek",
